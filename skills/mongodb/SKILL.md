@@ -1,6 +1,6 @@
 ---
-name: MongoDB through Exorails
-description: Using the Exorails MongoDB connector well: sample the schema first, filter and project, prefer aggregate for anything non-trivial, and confirm before update_many or delete_many.
+name: "MongoDB through Exorails"
+description: "Using the Exorails MongoDB connector well: sample the schema first, filter and project, prefer aggregate for anything non-trivial, and confirm before update_many or delete_many."
 ---
 
 # MongoDB through Exorails

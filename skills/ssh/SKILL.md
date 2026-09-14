@@ -1,6 +1,6 @@
 ---
-name: SSH through Exorails
-description: Using the Exorails SSH connector well: what run, read_file, list_files and system_info do, how the command allow-list works, why some commands are refused, and how to work within it.
+name: "SSH through Exorails"
+description: "Using the Exorails SSH connector well: what run, read_file, list_files and system_info do, how the command allow-list works, why some commands are refused, and how to work within it."
 ---
 
 # SSH through Exorails

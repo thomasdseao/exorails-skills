@@ -1,6 +1,6 @@
 ---
-name: S3 through Exorails
-description: Using the Exorails S3 connector well: list before reading, prefixes instead of listing everything, bounded object reads, and confirmation before put_object or delete_object.
+name: "S3 through Exorails"
+description: "Using the Exorails S3 connector well: list before reading, prefixes instead of listing everything, bounded object reads, and confirmation before put_object or delete_object."
 ---
 
 # S3 through Exorails

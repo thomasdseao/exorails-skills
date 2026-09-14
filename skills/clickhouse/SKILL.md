@@ -1,6 +1,6 @@
 ---
-name: ClickHouse through Exorails
-description: Using the Exorails ClickHouse connector well: analytical queries over large tables, why you aggregate instead of selecting rows, readonly mode, and the FORMAT and LIMIT rules.
+name: "ClickHouse through Exorails"
+description: "Using the Exorails ClickHouse connector well: analytical queries over large tables, why you aggregate instead of selecting rows, readonly mode, and the FORMAT and LIMIT rules."
 ---
 
 # ClickHouse through Exorails

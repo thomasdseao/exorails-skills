@@ -1,6 +1,6 @@
 ---
-name: PostgreSQL through Exorails
-description: Using the Exorails PostgreSQL connector well: inspect the schema before querying, keep result sets small, explain before heavy queries, and how read-only and write modes behave.
+name: "PostgreSQL through Exorails"
+description: "Using the Exorails PostgreSQL connector well: inspect the schema before querying, keep result sets small, explain before heavy queries, and how read-only and write modes behave."
 ---
 
 # PostgreSQL through Exorails

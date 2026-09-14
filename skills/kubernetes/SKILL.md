@@ -1,6 +1,6 @@
 ---
-name: Kubernetes through Exorails
-description: Using the Exorails Kubernetes connector well: the read path from namespaces to pods to logs, how to diagnose a failing deployment, and the rules before scale, restart or delete_pod.
+name: "Kubernetes through Exorails"
+description: "Using the Exorails Kubernetes connector well: the read path from namespaces to pods to logs, how to diagnose a failing deployment, and the rules before scale, restart or delete_pod."
 ---
 
 # Kubernetes through Exorails

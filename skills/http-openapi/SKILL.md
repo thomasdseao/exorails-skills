@@ -1,6 +1,6 @@
 ---
-name: REST API through Exorails
-description: Using the Exorails REST and OpenAPI connector well: read the operation list, send the right method and body, treat writes with care, and read status codes as answers rather than failures.
+name: "REST API through Exorails"
+description: "Using the Exorails REST and OpenAPI connector well: read the operation list, send the right method and body, treat writes with care, and read status codes as answers rather than failures."
 ---
 
 # REST API through Exorails

@@ -1,6 +1,6 @@
 ---
-name: MySQL through Exorails
-description: Using the Exorails MySQL and MariaDB connector well: schema first, parameters as placeholders, row limits, explain before heavy joins, and the read-only rule.
+name: "MySQL through Exorails"
+description: "Using the Exorails MySQL and MariaDB connector well: schema first, parameters as placeholders, row limits, explain before heavy joins, and the read-only rule."
 ---
 
 # MySQL through Exorails

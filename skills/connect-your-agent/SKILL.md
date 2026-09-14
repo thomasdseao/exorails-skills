@@ -1,6 +1,6 @@
 ---
-name: Exorails — connect an agent
-description: How an Exorails environment works from the agent's side: one URL, tool name prefixes, secrets you never see, what an error from the gateway means and what to tell the user.
+name: "Exorails — connect an agent"
+description: "How an Exorails environment works from the agent's side: one URL, tool name prefixes, secrets you never see, what an error from the gateway means and what to tell the user."
 ---
 
 # Exorails — connect an agent

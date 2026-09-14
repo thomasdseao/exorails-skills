@@ -1,6 +1,6 @@
 ---
-name: Redis through Exorails
-description: Using the Exorails Redis connector well: scan instead of KEYS, read-only by default, what command runs where, and how to avoid blocking the server.
+name: "Redis through Exorails"
+description: "Using the Exorails Redis connector well: scan instead of KEYS, read-only by default, what command runs where, and how to avoid blocking the server."
 ---
 
 # Redis through Exorails
