@@ -1,9 +1,9 @@
 ---
-name: "Prometheus through Exorails"
+name: "Prometheus guide"
 description: "Using the Exorails Prometheus connector well: PromQL basics, instant versus range queries, how to find metric and label names, and how to read alerts and targets."
 ---
 
-# Prometheus through Exorails
+# Prometheus
 
 Tools: `query` (instant), `query_range`, `series`, `labels`, `targets`, `alerts`.
 

@@ -1,9 +1,9 @@
 ---
-name: "SQL Server through Exorails"
+name: "SQL Server guide"
 description: "Using the Exorails SQL Server connector well: T-SQL specifics, TOP instead of LIMIT, schema-qualified names, and the read-only guarantee the connector enforces."
 ---
 
-# SQL Server through Exorails
+# SQL Server
 
 Tools: `schema`, `query`, and `execute` when writes are allowed.
 

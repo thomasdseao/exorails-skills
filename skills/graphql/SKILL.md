@@ -1,9 +1,9 @@
 ---
-name: "GraphQL through Exorails"
+name: "GraphQL guide"
 description: "Using the Exorails GraphQL connector well: explore the schema, ask for exactly the fields you need, use variables, read errors from the payload, and the mutation rule."
 ---
 
-# GraphQL through Exorails
+# GraphQL
 
 Tools: `schema`, `query`.
 

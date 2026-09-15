@@ -1,9 +1,9 @@
 ---
-name: "MongoDB through Exorails"
+name: "MongoDB guide"
 description: "Using the Exorails MongoDB connector well: sample the schema first, filter and project, prefer aggregate for anything non-trivial, and confirm before update_many or delete_many."
 ---
 
-# MongoDB through Exorails
+# MongoDB
 
 Tools: `schema`, `find`, `aggregate`, `count`, `distinct`, and `insert_one`, `update_many`, `delete_many` when writes are allowed.
 

@@ -1,9 +1,9 @@
 ---
-name: "MySQL through Exorails"
+name: "MySQL guide"
 description: "Using the Exorails MySQL and MariaDB connector well: schema first, parameters as placeholders, row limits, explain before heavy joins, and the read-only rule."
 ---
 
-# MySQL through Exorails
+# MySQL
 
 Tools: `schema`, `query`, `explain`, and `execute` when writes are allowed. Prefixed with the server name when the environment has several servers.
 

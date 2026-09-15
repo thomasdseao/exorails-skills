@@ -1,5 +1,5 @@
 ---
-name: "Exorails Connect — private networks"
+name: "Private networks"
 description: "What to do when a tool cannot reach a database or server on a private network: Exorails Connect runs an agent on the user's machine and declares routes; you cannot set it up, but you can explain it."
 ---
 

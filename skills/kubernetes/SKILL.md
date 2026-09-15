@@ -1,9 +1,9 @@
 ---
-name: "Kubernetes through Exorails"
+name: "Kubernetes guide"
 description: "Using the Exorails Kubernetes connector well: the read path from namespaces to pods to logs, how to diagnose a failing deployment, and the rules before scale, restart or delete_pod."
 ---
 
-# Kubernetes through Exorails
+# Kubernetes
 
 Tools: `namespaces`, `pods`, `deployments`, `services`, `describe`, `logs`, `events`, and `scale`, `restart`, `delete_pod` when writes are allowed. Lists are capped (100 items by default).
 

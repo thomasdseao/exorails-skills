@@ -1,9 +1,9 @@
 ---
-name: "Redis through Exorails"
+name: "Redis guide"
 description: "Using the Exorails Redis connector well: scan instead of KEYS, read-only by default, what command runs where, and how to avoid blocking the server."
 ---
 
-# Redis through Exorails
+# Redis
 
 Tools: `get`, `scan`, `info`, `command`, and `set`, `del` when writes are allowed.
 

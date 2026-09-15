@@ -1,9 +1,9 @@
 ---
-name: "PostgreSQL through Exorails"
+name: "PostgreSQL guide"
 description: "Using the Exorails PostgreSQL connector well: inspect the schema before querying, keep result sets small, explain before heavy queries, and how read-only and write modes behave."
 ---
 
-# PostgreSQL through Exorails
+# PostgreSQL
 
 The connector speaks the PostgreSQL wire protocol from the gateway. Tools: `schema`, `query`, `explain`, and `execute` when the server is not read-only. With several servers they are prefixed, for example `prod-db__query`.
 

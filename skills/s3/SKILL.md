@@ -1,9 +1,9 @@
 ---
-name: "S3 through Exorails"
+name: "S3 guide"
 description: "Using the Exorails S3 connector well: list before reading, prefixes instead of listing everything, bounded object reads, and confirmation before put_object or delete_object."
 ---
 
-# S3 through Exorails
+# S3
 
 Tools: `list_buckets`, `list_objects`, `stat_object`, `get_object`, and `put_object`, `delete_object` when writes are allowed. Works with AWS S3 and any S3-compatible store (MinIO, R2, Backblaze).
 

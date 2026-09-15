@@ -1,9 +1,9 @@
 ---
-name: "ClickHouse through Exorails"
+name: "ClickHouse guide"
 description: "Using the Exorails ClickHouse connector well: analytical queries over large tables, why you aggregate instead of selecting rows, readonly mode, and the FORMAT and LIMIT rules."
 ---
 
-# ClickHouse through Exorails
+# ClickHouse
 
 Tools: `schema`, `query`, `explain`, and `execute` when writes are allowed. ClickHouse is a column store built for aggregation over very large tables: shape your queries accordingly.
 

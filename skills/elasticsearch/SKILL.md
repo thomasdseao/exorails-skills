@@ -1,9 +1,9 @@
 ---
-name: "Elasticsearch through Exorails"
+name: "Elasticsearch guide"
 description: "Using the Exorails Elasticsearch and OpenSearch connector well: check the mapping, write query DSL rather than free text, keep hits small, and use aggregations for numbers."
 ---
 
-# Elasticsearch through Exorails
+# Elasticsearch
 
 Tools: `indices`, `mapping`, `search`, `get`, `count`, `cluster_health`, and `index_document`, `delete_document` when writes are allowed.
 

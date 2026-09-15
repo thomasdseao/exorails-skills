@@ -1,9 +1,9 @@
 ---
-name: "REST API through Exorails"
+name: "REST API guide"
 description: "Using the Exorails REST and OpenAPI connector well: read the operation list, send the right method and body, treat writes with care, and read status codes as answers rather than failures."
 ---
 
-# REST API through Exorails
+# REST API
 
 The connector wraps an HTTP API, described by an OpenAPI document when one was given. Tool: `request`, and one tool per operation when the document lists them. Authentication is injected by the gateway; do not add headers for it.
 

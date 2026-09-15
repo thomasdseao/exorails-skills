@@ -1,9 +1,9 @@
 ---
-name: "SSH through Exorails"
+name: "SSH guide"
 description: "Using the Exorails SSH connector well: what run, read_file, list_files and system_info do, how the command allow-list works, why some commands are refused, and how to work within it."
 ---
 
-# SSH through Exorails
+# SSH
 
 Tools: `system_info`, `list_files`, `read_file`, `run`. The gateway holds the key or password; you never see it.
 
